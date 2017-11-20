@@ -1,0 +1,82 @@
+.fm {
+    background-color: rgba(0,0,0,0.3);
+    font-size: 20px;
+    text-align: center;
+    width: 30%;
+    position: center;
+    margin-left: 35%;
+    padding:20px;
+   
+     }
+.fm input[type="text"]{
+    width: 200px;
+    height: 35px;
+    border: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    -o-border-radius:5px;
+    font-size: 15px;
+   }
+.fm input[type="password"]{
+    width: 200px;
+    height: 35px;
+    border: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    -o-border-radius:5px;
+    font-size: 15px;
+}
+.fm input[type="submit"]{
+    width: 200px;
+    height: 35px;
+    border: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    -o-border-radius:5px;
+    font-size: 25px;
+}
+H1 { color: black;
+    text-align: centre;
+       
+     }
+html{
+    background: url('background.jpg') no-repeat center center fixed;
+    -webkit- background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover; 
+    font-family: tahoma;
+}
+body{
+    color: black;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: None;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+
+}
