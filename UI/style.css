@@ -1,11 +1,12 @@
 .fm {
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.7);
     font-size: 20px;
     text-align: center;
     width: 30%;
     position: center;
     margin-left: 35%;
     padding:20px;
+    color: whitesmoke;
    
      }
 .fm input[type="text"]{
@@ -55,7 +56,7 @@ body{
     
 }
 ul {
-    list-style-type: none;
+    list-style-type: bold;
     margin: 0;
     padding: 0;
     overflow: hidden;
