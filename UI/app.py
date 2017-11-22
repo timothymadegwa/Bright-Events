@@ -6,3 +6,7 @@ from wtforms.validators import InputRequired, email, length
 app= Flask(__name__)
 app.config['SECERET_KEY']='THISISTHESECRETKEYFORTHEAPP'
 Bootstrap(app)
+
+
+@app.route('/')
+def index
