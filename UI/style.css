@@ -10,7 +10,7 @@
    
      }
 .fm input[type="text"]{
-    width: 200px;
+    width: 75%;
     height: 35px;
     border: 10px;
     border-radius: 5px;
@@ -20,7 +20,7 @@
     font-size: 15px;
    }
 .fm input[type="password"]{
-    width: 200px;
+    width: 75%;
     height: 35px;
     border: 10px;
     border-radius: 5px;
@@ -30,7 +30,7 @@
     font-size: 15px;
 }
 .fm input[type="submit"]{
-    width: 200px;
+    width: 75%;
     height: 35px;
     border: 10px;
     border-radius: 5px;
