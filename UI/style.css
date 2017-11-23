@@ -17,7 +17,7 @@
     -webkit-border-radius: 5px;
     -moz-border-radius:5px;
     -o-border-radius:5px;
-    font-size: 15px;
+    font-size:80%;
    }
 .fm input[type="password"]{
     width: 75%;
@@ -27,7 +27,7 @@
     -webkit-border-radius: 5px;
     -moz-border-radius:5px;
     -o-border-radius:5px;
-    font-size: 15px;
+    font-size: 80%;
 }
 .fm input[type="submit"]{
     width: 75%;
@@ -37,7 +37,13 @@
     -webkit-border-radius: 5px;
     -moz-border-radius:5px;
     -o-border-radius:5px;
-    font-size: 25px;
+    font-size: 80%;
+}
+.fm a {
+    color: wheat;
+}
+.fm a:hover {
+    color: green;
 }
 H1 { color: black;
     text-align: centre;
